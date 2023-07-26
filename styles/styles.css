@@ -1,0 +1,37 @@
+body {
+  background-color: burlywood;
+  font-family: 'Courier New', Courier, monospace;
+  padding: 20px;
+  margin: 10px;
+}
+
+h1 {
+  background-color: rgb(155, 122, 79,0.3);
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  border: solid black;
+  border-radius: 10px;
+}
+
+h2 {
+  border: solid brown;
+  background-color: rgb(222, 166, 92,0.5);
+  width: 35%;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+ul{
+  color: brown;
+}
+
+li a{
+  text-decoration: none;
+  color: black;
+}
+
+img {
+  height: auto;
+  width: 500px;
+}
